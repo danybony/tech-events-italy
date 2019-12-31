@@ -1,10 +1,10 @@
 ---
 layout: none
-uid_prefix: https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/
+uid_prefix: https://github.com/cmota/tech-conferences-portugal/tree/gh-pages/
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://npatarino.github.io/tech-conferences-spain/
+PRODID:https://cmota.github.io/tech-conferences-portugal/
 METHOD:PUBLISH
 {% for conference in site.conferences %}BEGIN:VEVENT
 UID:{{ page.uid_prefix }}{{ conference.relative_path }}
