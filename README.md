@@ -1,7 +1,10 @@
 Conferences
 ===========
 
-A community-curated list of Software Development conferences around Spain.
+A community-curated list of Software Development conferences around Portugal.
+
+Based on [@npatarino](https://github.com/npatarino/) project:
+👉 [Tech Conferences - Spain](https://github.com/npatarino/tech-conferences-spain)
 
 Adding a conference
 -------------------
@@ -15,9 +18,9 @@ The contents of the file should use the following template:
 ```
 ---
 name: "CoolConf"
-website: http://es.coolconf.com/2019/
+website: http://es.coolconf.com/2020/
 twitter: http://twitter.com/coolconf/
-location: Illescas, Toledo, Spain
+location: Coimbra, Portugal
 
 date_start: 2019-10-18
 date_end:   2019-10-30
@@ -28,7 +31,7 @@ cfp_site: http://es.coolconf.com/2019/call-for-papers/ # Optional, will default 
 ---
 ```
 
-*Note: Do not include the location of the conference in the name. The above conference is often referred to as "Devfest Madrid", but we will always render the location with the name so it is redundant.*
+*Note: Do not include the location of the conference in the name. The above conference is often referred to as "DevFest Coimbra", but we will always render the location with the name so it is redundant.*
 
 
 Running locally
