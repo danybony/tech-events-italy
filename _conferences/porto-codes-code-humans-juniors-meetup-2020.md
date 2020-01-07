@@ -1,5 +1,5 @@
 ---
-name: "[Porto Code] Code for Humans and juniors"
+name: "[Porto Codes] Code for Humans and juniors"
 website: https://www.meetup.com/portocodes/events/rsjhnqybccbmb/
 location: Porto, Portugal
 
