@@ -1,5 +1,5 @@
 ---
-name: "Kotlin Lisboa - Meetup #5"
+name: "[Kotlin Lisboa] Meetup #5"
 website: https://www.meetup.com/kotlin-lisboa/events/267087627/
 location: Lisbon, Portugal
 

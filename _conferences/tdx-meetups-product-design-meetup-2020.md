@@ -1,5 +1,5 @@
 ---
-name: "TDX Meetups - Product & Product Design Meetup"
+name: "[TDX Meetups] Product & Product Design Meetup"
 website: https://www.meetup.com/TDX-Meetups/events/267694332/
 location: Coimbra, Portugal
 

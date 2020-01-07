@@ -1,5 +1,5 @@
 ---
-name: "Coding #03 - Introducing RabbitMQ"
+name: "[Coding Braga] Introducing RabbitMQ"
 website: https://www.meetup.com/codiding-braga/events/267595748/
 location: Braga, Portugal
 
