@@ -1,7 +1,7 @@
 Conferences
 ===========
 
-A community-curated list of Software Development conferences around Portugal.
+A community-curated list of Software Development events around Portugal.
 
 Based on [@npatarino](https://github.com/npatarino/) project:  
 👉 [Tech Conferences - Spain](https://github.com/npatarino/tech-conferences-spain)
