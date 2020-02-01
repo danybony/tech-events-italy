@@ -1,5 +1,5 @@
 ---
-name: "VISUM Summer School"
+name: "VISUM 2020"
 website: http://visum.inesctec.pt/
 twitter: https://twitter.com/visumschool
 location: Porto, Portugal
