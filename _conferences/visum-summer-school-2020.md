@@ -2,8 +2,8 @@
 name: "VISUM 2020"
 website: http://visum.inesctec.pt/
 twitter: https://twitter.com/visumschool
-location: Viseu, Portugal
+location: Porto, Portugal
 
-date_start: 2020-06-02
-date_end:   2020-06-10
+date_start: 2020-07-02
+date_end:   2020-07-10
 ---
