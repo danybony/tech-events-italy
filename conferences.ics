@@ -4,7 +4,7 @@ uid_prefix: https://github.com/cmota/tech-events-portugal/tree/gh-pages/
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://cmota.github.io/tech-events-portugal/
+PRODID:https://github.com/cmota/tech-events-portugal
 METHOD:PUBLISH
 {% for conference in site.conferences %}BEGIN:VEVENT
 UID:{{ page.uid_prefix }}{{ conference.relative_path }}

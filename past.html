@@ -3,16 +3,25 @@ layout: default
 title: Past
 ---
 
-{% assign today_without_time = site.time | date: "%Y-%m-%d" %}
-{% assign today = today_without_time | date: "%s" %}
+<ul class="conference-list list-unstyled">
+{% assign sorted_conferences = (site.conferences | sort: 'date_start' | reverse) %}
+{% assign today = (site.time | date: "%s" ) %}
+{% for conference in sorted_conferences %}
+  {% assign date_end = (conference.date_end | date: "%s") %}
+  {% if today >= date_end %}
+  <li>
+    {{ conference.date_start | date: "%Y-%m-%d" }}&nbsp;
+    <a class="post-link" href="{{ conference.website }}">{{ conference.name }}</a>
+    {% if conference.location %}
+    &nbsp;<small>{{ conference.location }}</small>
+    {% endif %}
 
-{% assign past_conferences = "" | split: "" %}
-{% for conference in site.conferences %}
-{%   assign date_end = conference.date_end | date: "%s" %}
-{%   if today > date_end %}
-{%     assign past_conferences = past_conferences | push: conference %}
-{%   endif %}
+    <script>
+    {% if conference.meetup %}
+      document.write('<span class="label label-warning">Meetup</span>');
+    {% endif %}
+  </script>
+  </li>
+  {% endif %}
 {% endfor %}
-
-{% assign sorted_conferences = past_conferences | sort: 'date_start' | reverse %}
-{% include main_list.html type_of_events='past' %}
+</ul>

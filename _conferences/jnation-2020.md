@@ -3,6 +3,7 @@ name: "JNation"
 website: https://2020.jnation.pt/
 twitter: https://twitter.com/JNationConf
 location: Coimbra, Portugal
+online: true
 
 date_start: 2020-06-02
 date_end:   2020-06-03
