@@ -5,6 +5,7 @@ A community-curated list of Software Development events around Portugal.
 
 
 Based on [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) and [@npatarino](https://github.com/npatarino/) projects:
+
 👉 [Android Study Group](https://github.com/AndroidStudyGroup/conferences)  
 👉 [Tech Conferences - Spain](https://github.com/npatarino/tech-conferences-spain)
 
