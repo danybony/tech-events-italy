@@ -46,7 +46,7 @@ For online only events please set `online: true` in the template. They will show
 Please use the `status:` field only for cancellation or postponement as it will show up in red in the website.
 
 Running locally
----------------s
+---------------
 
 ```
 bundle install --path vendor/bundle
