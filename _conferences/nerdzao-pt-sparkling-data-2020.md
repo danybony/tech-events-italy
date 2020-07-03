@@ -1,5 +1,5 @@
 ---
-name: "Sparkling Data
+name: "Sparkling Data"
 website: https://www.meetup.com/Nerdzao-PT/events/268090930/
 location: Porto, Portugal
 meetup: true

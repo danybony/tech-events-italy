@@ -1,5 +1,5 @@
 ---
-name: "Plug & Play Dott!
+name: "Plug & Play Dott!"
 website: https://www.eventbrite.com/e/plug-play-dott-tickets-92960652815
 location: Lisbon, Portugal
 meetup: true
