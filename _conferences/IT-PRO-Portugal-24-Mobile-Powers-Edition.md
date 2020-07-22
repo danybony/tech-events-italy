@@ -5,5 +5,5 @@ location: Lisbon, Portugal
 online: true
 
 date_start: 2020-07-07
-date_end:   2020-07-07
+date_end:   2020-07-08
 ---
