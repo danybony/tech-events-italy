@@ -25,7 +25,7 @@ name: "Droidcon"
 website: http://uk.droidcon.com/2015/
 location: London, UK
 status: Cancelled/Postponed # Optional, will show up in red if provided
-online: true                # Optional, for online-only events.
+online: true                # Optional, for online-only.
 meetup: true                # Optional, for meetup events.
 
 date_start: 2015-10-29
@@ -39,7 +39,7 @@ cfp_site: http://uk.droidcon.com/2015/lineup-2015/ # Optional, will default to w
 
 *Note: Do not include the location of the conference in the name. The above conference is often referred to as "Droidcon London", but we will always render the location with the name so it is redundant.*
 
-### Online-only events
+### Online-only
 
 For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](http://androidstudygroup.github.io/conferences/online.html) page.
 

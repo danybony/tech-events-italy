@@ -1,9 +1,9 @@
 ---
-name: "TICE.Leiria Meetup : Scaling Conversational Experiences with Chatbot, DevOps & AI"
+name: "Scaling Conversational Experiences w/ Chatbot, DevOps & AI"
 website: https://www.meetup.com/pt-BR/TICE-Leiria/events/273001195
-location: Lisbon, PT
-online: true                # Optional, for online-only events.
-meetup: true                # Optional, for meetup events.
+location: Leiria, Portugal
+online: true
+meetup: true
 
 date_start: 2020-09-23
 date_end:   2020-09-23

@@ -24,7 +24,7 @@ var today = dateTimestamp();
     &nbsp;<small>{{ conference.location }}</small>
     {% endif %}
     <script>
-      document.write('<span class="label label-primary">Online-only event</span>');
+      document.write('<span class="label label-primary">Online-only</span>');
       {% if conference.status %}
         document.write('<span class="label label-danger">{{ conference.status }}</span>');
       {% endif %}
