@@ -1,0 +1,10 @@
+---
+name: "AKUG.PT #3 : Moving to Event-Driven with Kafka at Unbabel"
+website: https://www.meetup.com/pt-BR/Apache-Kafka-User-Group-Portugal-AKUG-PT/events/273071133/
+location: Lisbon, PT
+online: true                # Optional, for online-only.
+meetup: true                # Optional, for meetup events.
+
+date_start: 2020-09-17
+date_end:   2020-09-17
+---
