@@ -1,0 +1,10 @@
+---
+name: "Deploy and Scale APIs in the Cloud with Kubernetes #k8s #aws #eks"
+website: https://www.meetup.com/pt-BR/TICE-Leiria/events/273919674
+location: Leiria, PT
+online: true                # Optional, for online-only.
+meetup: true                # Optional, for meetup events.
+
+date_start: 2020-10-28
+date_end:   2020-10-28
+---
