@@ -1,0 +1,10 @@
+---
+name: "AKUG.PT #4 : Apache Kafka 101 w/ KafkaBR"
+website: https://www.meetup.com/pt-BR/Apache-Kafka-User-Group-Portugal-AKUG-PT/events/273562385/
+location: Lisbon, PT
+online: true                # Optional, for online-only.
+meetup: true                # Optional, for meetup events.
+
+date_start: 2020-10-07
+date_end:   2020-10-07
+---
