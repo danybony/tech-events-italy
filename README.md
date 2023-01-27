@@ -1,7 +1,7 @@
 Conferences
 ===========
 
-A community-curated list of Software Development events around Portugal.
+A community-curated list of Software Development events around Italy.
 
 
 Based on [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences) and [@npatarino](https://github.com/npatarino/) projects:
