@@ -12,6 +12,15 @@
         {%   include cfp_data.html %}
         {%   include live_data.html %}
         {% endif %}
+        {% if conference.online %}
+          <span class="label label-primary">Online-only</span>
+        {% endif %}
+        {% if conference.meetup %}
+          <span class="label label-warning">Meetup</span>
+        {% endif %}
+        {% if conference.status %}
+          <span class="label label-danger">{{ conference.status }}</span> 
+        {% endif %}
       </li>
     {% endfor %}
     </ul>
