@@ -41,7 +41,7 @@ cfp_site: http://uk.droidcon.com/2015/lineup-2015/ # Optional, will default to w
 
 ### Online-only
 
-For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](http://androidstudygroup.github.io/conferences/online.html) page.
+For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://www.techconf.it/online.html) page.
 
 Please use the `status:` field only for cancellation or postponement as it will show up in red in the website.
 
