@@ -1,5 +1,5 @@
 ---
-name: "Rome .NET Conference 2023"
+name: ".NET Conference 2023"
 website: https://www.dotnetconf.it
 location: Roma
 
